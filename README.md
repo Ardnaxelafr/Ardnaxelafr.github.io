@@ -15,7 +15,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Alexandra Fernández Antonava
 
-**Resumen** : peuqña historia que termina en una especie de minijuegos con tres niveles
+**Resumen** : pequeña historia que termina en una especie de minijuegos con tres niveles
 
 **Estilo/género:**   juego e historia
 
