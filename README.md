@@ -9,17 +9,18 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : Buscando a Dory
 
 **Web:**   https://    (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Alexandra Fernández Antonava
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : peuqña historia que termina en una especie de minijuegos con tres niveles
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**   juego e historia
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : (in![OIP](https://github.com/Ardnaxelafr/CMI24/assets/170507317/bf12053f-6ba7-49c2-a665-75b7a850152b)
+sertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
