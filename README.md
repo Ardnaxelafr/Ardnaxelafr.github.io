@@ -22,7 +22,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ![sddsd](https://github.com/Ardnaxelafr/CMI24/blob/main/OIP.jpg)
 
 
-**Logotipo** : ![OIP](https://github.com/Ardnaxelafr/CMI24/assets/170507317/bf12053f-6ba7-49c2-a665-75b7a850152b)
+**Logotipo** : 
 sertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
