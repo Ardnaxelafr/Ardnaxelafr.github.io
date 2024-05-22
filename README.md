@@ -19,6 +19,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**   juego e historia
 
+![sddsd](https://github.com/Ardnaxelafr/CMI24/blob/main/OIP.jpg)
+
+
 **Logotipo** : ![OIP](https://github.com/Ardnaxelafr/CMI24/assets/170507317/bf12053f-6ba7-49c2-a665-75b7a850152b)
 sertar imagen y breve justificación, si  tiene) 
 
