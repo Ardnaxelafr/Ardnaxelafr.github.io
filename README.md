@@ -11,7 +11,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Buscando a Dory
 
-**Web:**   https://Ardnaxelafr.github.io
+**Web:**   https://github.com/Ardnaxelafr/Ardnaxelafr.github.io/tree/main
 
 **Autor:**  Alexandra Fernández Antonava
 
